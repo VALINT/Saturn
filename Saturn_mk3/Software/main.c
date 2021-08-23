@@ -1,5 +1,3 @@
-#define SYSCLOCK 72000000UL
-
 #include "stm32f10x.h"
 #include "date_time.h"
 #include "automata.h"
